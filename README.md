@@ -2,10 +2,12 @@
 <p align="justify"> Aplicativo de notícias </p>
 <p align="justify"> O App foi desenvolvido com o framework Flutter e a linguagem Dart e atualmente está disponível apenas para android</p>
 
-<img src="https://raw.githubusercontent.com/tii3030/Funnews/master/Screenshot.png?token=GHSAT0AAAAAABVKLD7XNUJATSNKPCFZSAUKYU6CJCA"></img>
-
 
 > Status do Projeto: Em desenvolvimento :warning:
+
+
+<img src="https://raw.githubusercontent.com/tii3030/Funnews/master/Screenshot.png?token=GHSAT0AAAAAABVKLD7XNUJATSNKPCFZSAUKYU6CJCA"></img>
+
 
 ## Linguagens e libs utilizadas :books:
 
