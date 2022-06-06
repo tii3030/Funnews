@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399580040458",
+    "project_id": "app-fun-60887",
+    "storage_bucket": "app-fun-60887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399580040458:android:a0385b8fddb1dd3f0cbef3",
+        "android_client_info": {
+          "package_name": "com.tii3030.funnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399580040458-hnd5eqvkcfp5mg4qe5hun48i07km7cju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1oHiYeUPEf-_jNycJUXhrEdjjkayJLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399580040458-hnd5eqvkcfp5mg4qe5hun48i07km7cju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
